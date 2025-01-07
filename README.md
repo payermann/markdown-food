@@ -42,6 +42,12 @@ Alles umrühren und die Pilzpfanne bei schwacher Hitze 10-15 Minuten garen.
 >
 > Am Ende des Kochvorgangs füge einen Spritzer frischen Zitronensaft hinzu. Dies bringt die Aromen der Pilze und Zwiebeln noch mehr zur Geltung und verleiht dem Gericht eine angenehme Frische.
 
+> [!NOTE]
+>
+> ## Info
+>
+> Die Aromatische Pilzpfanne mit Buchweizen hat ihre Wurzeln in der osteuropäischen Küche, insbesondere in Russland
+
 ### Author
 
 > Felix Fischer
