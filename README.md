@@ -18,7 +18,7 @@
 
 ## Vorgang
 
-<sub>Aromatische</sub> <sup>Pilzpfanne</sup> <ins>mit</ins> Buchweizen, Steinpilzen und Zwiebeln
+<sub>Aromatische</sub> <sup>Pilzpfanne</sup> <ins>mit</ins>, Steinpilzen und Zwiebeln
 Zubereitung
 Buchweizen mit kochendem Wasser, Salz und Pilzgewürz in einen Topf geben.
 
@@ -34,9 +34,11 @@ Gehackten Knoblauch und Buchweizen zu den Pilzen in die Pfanne hinzufügen.
 
 Alles umrühren und die Pilzpfanne bei schwacher Hitze 10-15 Minuten garen.
 
-## persönlichen Tipp
-
-Verwende frische Kräuter und etwas Zitronensaft: Frische Kräuter wie Thymian, Rosmarin oder Petersilie können den Geschmack der Pilzpfanne erheblich verbessern.
+> [!TIP]
+>
+> ## persönlichen Tipp
+>
+> Verwende frische Kräuter und etwas Zitronensaft: Frische Kräuter wie Thymian, Rosmarin oder Petersilie können den Geschmack der Pilzpfanne erheblich verbessern.
 
 Am Ende des Kochvorgangs füge einen Spritzer frischen Zitronensaft hinzu. Dies bringt die Aromen der Pilze und Zwiebeln noch mehr zur Geltung und verleiht dem Gericht eine angenehme Frische.
 
