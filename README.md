@@ -46,7 +46,7 @@ Alles umrühren und die Pilzpfanne bei schwacher Hitze 10-15 Minuten garen.
 >
 > ## Info
 >
-> Die Aromatische Pilzpfanne mit Buchweizen hat ihre Wurzeln in der osteuropäischen Küche, insbesondere in Russland
+> Die Aromatische Pilzpfanne mit Buchweizen hat ihre Wurzeln in der osteuropäischen Küche, insbesondere in Russland[^1]
 
 ### Author
 
@@ -55,3 +55,5 @@ Alles umrühren und die Pilzpfanne bei schwacher Hitze 10-15 Minuten garen.
 Project Link: [https://github.com/payermann/markdown-food](https://github.com/payermann/markdown-food)
 
 <p align="right">(<a href="#readme-top">oben</a>)</p>
+
+[^1]: [https://www.foodtempel.de/aromatische-pilzpfanne-mit-buchweizen-steinpilzen-und-zwiebeln/](foodtempel.de).
