@@ -16,6 +16,8 @@
 - 2-3 EL Pflanzenöl
 - 3 Knoblauchzehen
 
+> **Witze:** Warum hat der Buchweizen den Job nicht bekommen? Er war einfach zu körnig! 😄
+
 ## Vorgang
 
 <sub>Aromatische</sub> <sup>Pilzpfanne</sup> <ins>mit</ins>, Steinpilzen und Zwiebeln
