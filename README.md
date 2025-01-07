@@ -31,6 +31,8 @@ In einen separaten Topf ca. 20 Minuten kochen.
 Die Zwiebel fein würfeln und in einer Pfanne mit Öl 5 Minuten braten.
 Pilze hinzufügen und weitere 15 Minuten mit garen.
 
+> **Witze:** Was sagt der Buchweizen, wenn er sich verirrt hat? "Ich bin total aus dem Korn geraten!" 😄
+
 Die Pilzpfanne mit Salz abschmecken.
 Gehackten Knoblauch und Buchweizen zu den Pilzen in die Pfanne hinzufügen.
 
