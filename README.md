@@ -46,6 +46,8 @@ Alles umrühren und die Pilzpfanne bei schwacher Hitze 10-15 Minuten garen.
 >
 > Am Ende des Kochvorgangs füge einen Spritzer frischen Zitronensaft hinzu. Dies bringt die Aromen der Pilze und Zwiebeln noch mehr zur Geltung und verleiht dem Gericht eine angenehme Frische.
 
+> **Witze:** Warum hat der Buchweizen immer gute Laune? Weil er immer auf der Körnerseite des Lebens steht! 😄
+
 > [!NOTE]
 >
 > ## Info
