@@ -39,8 +39,8 @@ Alles umrühren und die Pilzpfanne bei schwacher Hitze 10-15 Minuten garen.
 > ## persönlichen Tipp
 >
 > Verwende frische Kräuter und etwas Zitronensaft: Frische Kräuter wie Thymian, Rosmarin oder Petersilie können den Geschmack der Pilzpfanne erheblich verbessern.
-
-Am Ende des Kochvorgangs füge einen Spritzer frischen Zitronensaft hinzu. Dies bringt die Aromen der Pilze und Zwiebeln noch mehr zur Geltung und verleiht dem Gericht eine angenehme Frische.
+>
+> Am Ende des Kochvorgangs füge einen Spritzer frischen Zitronensaft hinzu. Dies bringt die Aromen der Pilze und Zwiebeln noch mehr zur Geltung und verleiht dem Gericht eine angenehme Frische.
 
 ### Author
 
