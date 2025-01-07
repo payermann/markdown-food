@@ -56,4 +56,4 @@ Project Link: [https://github.com/payermann/markdown-food](https://github.com/pa
 
 <p align="right">(<a href="#readme-top">oben</a>)</p>
 
-[^1]: [https://www.foodtempel.de/aromatische-pilzpfanne-mit-buchweizen-steinpilzen-und-zwiebeln/](foodtempel.de).
+[^1]: [foodtempel.de](https://www.foodtempel.de/aromatische-pilzpfanne-mit-buchweizen-steinpilzen-und-zwiebeln/).
